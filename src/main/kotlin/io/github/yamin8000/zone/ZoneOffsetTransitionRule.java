@@ -1,8 +1,8 @@
-package org.bardframework.time.zone;
+package io.github.yamin8000.zone;
 
-import org.bardframework.time.LocalDateJalali;
-import org.bardframework.time.LocalDateTimeJalali;
-import org.bardframework.time.MonthJalali;
+import io.github.yamin8000.LocalDateJalali;
+import io.github.yamin8000.LocalDateTimeJalali;
+import io.github.yamin8000.MonthJalali;
 
 import java.io.*;
 import java.time.DayOfWeek;

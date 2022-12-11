@@ -1,8 +1,8 @@
-package org.bardframework.time;
+package io.github.yamin8000;
 
-import org.bardframework.time.zone.ZoneOffsetTransition;
-import org.bardframework.time.zone.ZoneRules;
-import org.bardframework.time.zone.ZoneUtils;
+import io.github.yamin8000.zone.ZoneOffsetTransition;
+import io.github.yamin8000.zone.ZoneRules;
+import io.github.yamin8000.zone.ZoneUtils;
 
 import java.io.Serializable;
 import java.time.*;

@@ -1,6 +1,6 @@
-package org.bardframework.time.zone;
+package io.github.yamin8000.zone;
 
-import org.bardframework.time.LocalDateTimeJalali;
+import io.github.yamin8000.LocalDateTimeJalali;
 
 import java.io.*;
 import java.time.Duration;

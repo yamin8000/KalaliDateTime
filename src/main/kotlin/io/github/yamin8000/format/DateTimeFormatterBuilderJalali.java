@@ -1,7 +1,7 @@
-package org.bardframework.time.format;
+package io.github.yamin8000.format;
 
-import org.bardframework.time.ChronologyJalali;
-import org.bardframework.time.LocalDateJalali;
+import io.github.yamin8000.ChronologyJalali;
+import io.github.yamin8000.LocalDateJalali;
 
 import java.lang.ref.SoftReference;
 import java.math.BigDecimal;

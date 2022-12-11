@@ -1,6 +1,6 @@
-package org.bardframework.time.format;
+package io.github.yamin8000.format;
 
-import org.bardframework.time.ChronologyJalali;
+import io.github.yamin8000.ChronologyJalali;
 
 import java.time.ZoneId;
 import java.time.chrono.Chronology;

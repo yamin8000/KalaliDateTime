@@ -1,4 +1,4 @@
-package org.bardframework.time.format;
+package io.github.yamin8000.format;
 
 import java.text.DecimalFormatSymbols;
 import java.util.Locale;

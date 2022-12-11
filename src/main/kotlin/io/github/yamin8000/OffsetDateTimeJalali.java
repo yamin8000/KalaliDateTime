@@ -1,6 +1,6 @@
-package org.bardframework.time;
+package io.github.yamin8000;
 
-import org.bardframework.time.temporal.TemporalQueriesJalali;
+import io.github.yamin8000.temporal.TemporalQueriesJalali;
 
 import java.io.Serializable;
 import java.time.*;

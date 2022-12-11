@@ -1,4 +1,4 @@
-package org.bardframework.time.zone;
+package io.github.yamin8000.zone;
 
 import java.io.*;
 import java.time.ZoneOffset;

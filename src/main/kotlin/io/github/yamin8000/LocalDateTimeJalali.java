@@ -1,7 +1,7 @@
-package org.bardframework.time;
+package io.github.yamin8000;
 
-import org.bardframework.time.format.DateTimeFormatterJalali;
-import org.bardframework.time.temporal.IsoFieldsJalali;
+import io.github.yamin8000.format.DateTimeFormatterJalali;
+import io.github.yamin8000.temporal.IsoFieldsJalali;
 
 import java.io.Serializable;
 import java.time.*;

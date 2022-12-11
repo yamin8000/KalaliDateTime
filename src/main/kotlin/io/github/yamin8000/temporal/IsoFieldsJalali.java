@@ -1,6 +1,6 @@
-package org.bardframework.time.temporal;
+package io.github.yamin8000.temporal;
 
-import org.bardframework.time.LocalDateJalali;
+import io.github.yamin8000.LocalDateJalali;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
